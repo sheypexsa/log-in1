@@ -1,0 +1,23 @@
+.cont{
+    width: 350px;
+    height: 430px;
+    border: 2px solid grey;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+.conttt{
+    background-color: white;
+    color: grey;
+}
+input{
+    width: 340px;
+}
+h4{
+    color: aqua;
+}
